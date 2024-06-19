@@ -27,19 +27,34 @@
 
 .gpt__navbar-sign {
   display: flex;
-  justify-content: flex-end;
   align-items: center;
+  justify-content: flex-end;
 }
 
 .gpt__navbar-links_container p,
 .gpt__navbar-sign p,
 .gpt__navbar-menu_container p {
-  color: white;
+  color: #ffffff;
   font-family: var(--font-family);
   font-weight: 500;
   font-size: 18px;
   line-height: 25px;
-  text-transform: capitalize;
   margin: 0 1rem;
+  text-transform: capitalize;
+  cursor: pointer;
+}
+
+.gpt__navbar-sign button,
+.gpt__navbar-menu_container button {
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 25px;
+  font-family: var(--font-family);
+  color: #ffffff;
+  background: #ff4820;
+  border: 0;
+  outline: none;
   cursor: pointer;
 }

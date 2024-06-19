@@ -27,6 +27,10 @@ const Navbar = () => {
             </p>
           </div>
         </div>
+        <div className="gpt__navbar-sign">
+          <p>Sign In</p>
+          <button type="button">Sign Up</button>
+        </div>
       </div>
     </div>
   );
