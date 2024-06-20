@@ -10,7 +10,7 @@ const Navbar = () => {
     <div className="gpt__navbar">
       <div className="gpt__navbar-links">
         <div className="gpt__navbar-links_logo">
-          <img src={logo} />
+          <img src={logo} alt="logo" />
         </div>
         <div className="gpt__navbar-links_container">
           <p>
