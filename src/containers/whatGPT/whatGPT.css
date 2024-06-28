@@ -1,8 +1,7 @@
 .gpt__whatgpt {
   display: flex;
   flex-direction: column;
-
-  padding: 2rem;
+  padding: 3rem;
   background: var(--color-footer);
 
   /* ff 3.6+ */
