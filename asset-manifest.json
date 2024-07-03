@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/GPT-UIUX/static/css/main.4497ba76.css",
-    "main.js": "/GPT-UIUX/static/js/main.d9887b34.js",
+    "main.css": "/GPT-UIUX/static/css/main.19840255.css",
+    "main.js": "/GPT-UIUX/static/js/main.8ecd823b.js",
     "static/media/ai.png": "/GPT-UIUX/static/media/ai.aa60586ba1ba53762d94.png",
     "static/media/possibility.png": "/GPT-UIUX/static/media/possibility.525f13b61a2157d44de0.png",
     "static/media/blog01.png": "/GPT-UIUX/static/media/blog01.cefc0932eae0d33a0342.png",
@@ -12,11 +12,11 @@
     "static/media/people.png": "/GPT-UIUX/static/media/people.5cd2d6fbcd48bd63f106.png",
     "static/media/logo.svg": "/GPT-UIUX/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
     "index.html": "/GPT-UIUX/index.html",
-    "main.4497ba76.css.map": "/GPT-UIUX/static/css/main.4497ba76.css.map",
-    "main.d9887b34.js.map": "/GPT-UIUX/static/js/main.d9887b34.js.map"
+    "main.19840255.css.map": "/GPT-UIUX/static/css/main.19840255.css.map",
+    "main.8ecd823b.js.map": "/GPT-UIUX/static/js/main.8ecd823b.js.map"
   },
   "entrypoints": [
-    "static/css/main.4497ba76.css",
-    "static/js/main.d9887b34.js"
+    "static/css/main.19840255.css",
+    "static/js/main.8ecd823b.js"
   ]
 }
