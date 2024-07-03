@@ -85,7 +85,7 @@
   font-size: 14px;
   line-height: 17px;
   font-family: var(--font-family);
-  color: #fff;
+  color: var(--color-subtext);
 
   margin-bottom: 0.9rem;
 }
